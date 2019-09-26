@@ -22,7 +22,6 @@ def monopoly_with_third_tier
       rent_in_dollars: {
         one_piece_owned:      25, 
         two_pieces_owned:     50,
-# alt  :two_pieces_owned =>   25,  <===this will give you the same result 
         three_pieces_owned:   100, 
 # alt  :three_pieces_owned => 100, <===this will give you the same result 
         four_pieces_owned:    200
