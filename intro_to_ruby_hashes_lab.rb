@@ -51,11 +51,8 @@ def monopoly_with_fourth_tier
         one_piece_owned:      25, 
 # alt  :one_piece_owned =>    25,  <===this will give you the same result         
         two_pieces_owned:     50,
-# alt  :two_pieces_owned =>   25,  <===this will give you the same result 
         three_pieces_owned:   100, 
-# alt  :three_pieces_owned => 100, <===this will give you the same result 
         four_pieces_owned:    200
-# alt  :four_pieces_owned =>  200  <===this will give you the same result 
       }, 
       names: {
         reading_railroad: { 
