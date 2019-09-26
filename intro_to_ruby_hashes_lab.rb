@@ -23,7 +23,6 @@ def monopoly_with_third_tier
         one_piece_owned:      25, 
         two_pieces_owned:     50,
         three_pieces_owned:   100, 
-# alt  :three_pieces_owned => 100, <===this will give you the same result 
         four_pieces_owned:    200
 # alt  :four_pieces_owned =>  200  <===this will give you the same result 
       }, 
